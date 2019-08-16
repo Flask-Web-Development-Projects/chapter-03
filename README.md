@@ -82,5 +82,5 @@ You'll be able to view the resulting website on http://127.0.0.1:5000
 
 If you want to see this project built step by step, follow the branches of the repository:
 
-- [master](https://github.com/Flask-Web-Development-Projects/chapter-02/) will include the finished product.
-- [checkpoint-00](https://github.com/Flask-Web-Development-Projects/chapter-02/tree/checkpoint-00) is the initial commit, with just the most basic file structure.
+- [master](https://github.com/Flask-Web-Development-Projects/chapter-03/) will include the finished product.
+- [checkpoint-00](https://github.com/Flask-Web-Development-Projects/chapter-03/tree/checkpoint-00) is the initial commit, with just the most basic file structure.
